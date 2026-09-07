@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mokshith K
 
-<!--
-**mokshithk/mokshithk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Developer · Building clean, scalable systems.
 
-Here are some ideas to get you started:
+<img src="./ascii.svg" width="460" alt="ASCII Portrait" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### stats
+
+<img src="./stats.svg" alt="Stats" /><br/>
+<img src="./streak.svg" alt="Streak" /><br/>
+<img src="./year.svg" alt="Year Ramp" />
+
+---
+
+### stack
+
+<samp>python</samp> · <samp>django</samp> · <samp>javascript</samp> · <samp>docker</samp> · <samp>postgres</samp> · <samp>git</samp>
+
+---
+
+### about this page
+
+Every graphic on this profile is self-generated inside this repository. `ascii.svg` is an animated typing ASCII portrait rendered from an embedded font subset, and daily stats are drawn natively via GitHub's GraphQL API through GitHub Actions. No third-party services or external rate-limited cards.
