@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 30" width="350" height="30">
+  <style>
+    text { font-family: monospace; font-size: 13px; fill: #24292f; }
+    .dim { fill: #57606a; }
+    @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } .dim { fill: #8b949e; } }
+  </style>
+  <text x="0" y="20">streak: <tspan class="dim">2 days (longest: 12)</tspan></text>
+</svg>
