@@ -5,7 +5,7 @@
 > Software developer building clean, scalable systems.
 
 <!-- TODO: swap these for your real links, or delete the row if some don't apply -->
-[website](https://example.com) · [instagram](https://www.instagram.com/mokshithkulal_) · [linkedin](https://www.linkedin.com/in/mokshith-mokshith-7126a8343) · [email](mailto:mokshithkulal78@gmail.com.com)
+[website](https://example.com) · [instagram](https://www.instagram.com/mokshithkulal_) · [linkedin](https://www.linkedin.com/in/mokshith-mokshith-7126a8343) · [email](mailto:mokshithkulal78@gmail.com)
 
 [![about](./hd-about.svg)](./hd-about.svg)
 
