@@ -4,5 +4,5 @@
     .dim { fill: #57606a; }
     @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } .dim { fill: #8b949e; } }
   </style>
-  <text x="0" y="20">contributions: <tspan class="dim">66 in past year</tspan></text>
+  <text x="0" y="20">contributions: <tspan class="dim">69 in past year</tspan></text>
 </svg>
