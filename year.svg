@@ -3,5 +3,5 @@
     text { font-family: monospace; font-size: 11px; fill: #24292f; letter-spacing: 2px; }
     @media (prefers-color-scheme: dark) { text { fill: #8b949e; } }
   </style>
-  <text x="0" y="18">                                                                                                                                                                                                                                       ++++++@#@+@: @+                         +                    :                                                                  +@@ @:</text>
+  <text x="0" y="18">                                                                                                                                                                                                                                      ++++++@#@+@: @+                         +                    :                                                                  +@@ @: </text>
 </svg>
